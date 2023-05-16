@@ -6,3 +6,4 @@
 ### Create a plan to use its existing movie licenses to launch an online video rental service in order to stay competitive.
 # Data used
 ### The data that is used is available at the following link
+### https://postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
