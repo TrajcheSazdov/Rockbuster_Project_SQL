@@ -1,5 +1,5 @@
 # Rockbuster_Project_SQL
-adadg
-sdfasdgasdg
+# adadg
+# sdfasdgasdg
 sdgasdgg
 sdgasdgdgas
